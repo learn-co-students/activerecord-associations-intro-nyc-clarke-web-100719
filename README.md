@@ -80,7 +80,7 @@ A song will belong to an artist *and* belong to a genre. Before we worry about
 the migration that will implement this in our songs table, let's think about
 what that table will look like:
 
-|id |name        |artist_id |genre_id |
+|id |name  m      |artist_id |genre_id |
 |---|------------|----------|---------|
 |2  |Shake It Off|1         |1        |
 
